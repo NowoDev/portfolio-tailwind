@@ -10,3 +10,8 @@
 .to-secondary {
   --tw-gradient-to: #309e76;
 }
+
+.servicesImageSize {
+  height: 220px;
+  width: 100%;
+}
